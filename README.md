@@ -1,6 +1,6 @@
 # Coursera Machine Learning Specialization — Revision Notes (Andrew Ng)
 
-Concise, exam-focused revision notes for all 3 courses of the Machine Learning Specialization by Andrew Ng on Coursera.
+Concise, detailed study notes for all 3 courses of the Machine Learning Specialization by Andrew Ng on Coursera.
 
 **Course:** Machine Learning Specialization  
 **Offered by:** Coursera — DeepLearning.AI & Stanford University  
